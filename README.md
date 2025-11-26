@@ -12,7 +12,7 @@
 
 - 🎓 Student of **Tashkent University of Information Technologies**, Faculty of Cybersecurity  
 - 🔐 Passionate about developing **secure** backend systems  
-- 📊 Solved **140+ problems on LeetCode**, strong in algorithms and problem-solving  
+- 📊 Solved **220+ problems on LeetCode**, strong in algorithms and problem-solving  
 - 🤖 Created a Telegram bot that detects phishing links and SQL injections  
 - 🌐 Experienced with **REST APIs**, databases, and authentication systems  
 
